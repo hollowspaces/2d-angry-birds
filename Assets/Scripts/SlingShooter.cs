@@ -37,7 +37,6 @@ public class SlingShooter : MonoBehaviour
         float distance = Vector2.Distance(_startPos, transform.position);
 
         _bird.Shoot(velocity, distance, _throwSpeed);
-
         //Kembalikan ketapel ke posisi awal
         gameObject.transform.position = _startPos;
 
