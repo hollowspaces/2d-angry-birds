@@ -4,6 +4,7 @@ Chapter 5 Task: 2D Angry Bird Game, Created on Unity 2018.3.3f1.
 
 Player Input
 - Left click mouse to pull the slingshot
+- Left click mouse after using the yellow bird, the yellow bird will increase its speed
 
 Modified
 - Add New Level
